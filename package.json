@@ -1,0 +1,20 @@
+{
+  "name": "nodebots-xmas-lites",
+  "version": "0.0.0",
+  "description": "xmas lites",
+  "main": "app.js",
+  "dependencies": {
+    "johnny-five": "~0.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llkats/nodebots-xmas-lites.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
